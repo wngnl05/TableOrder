@@ -1,2 +1,1 @@
-# TableOrder
-사용자가 테이블에서 간편하게 음식을 주문할 수 있도록 도와줍니다
+set NODE_OPTIONS=--openssl-legacy-provider
